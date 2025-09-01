@@ -8,4 +8,4 @@ chromadb
 llama3.1
 nomic-embed-text
 
-AIzaSyCrh708yYBMm3uRRJEZA8H2LFTON5AhpV0
+
