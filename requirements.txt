@@ -7,5 +7,3 @@ PyMuPDF
 chromadb
 llama3.1
 nomic-embed-text
-
-
